@@ -1,0 +1,41 @@
+{
+    "name": "srcidadao/servicos",
+    "description": "Serviços (APP) para o aplicativo mobile Sr.Cidadão",
+    "keywords": ["Políticos","Acompanhamento","Fiscalização", "Cidadania"],
+    "homepage": "http://www.srcidadao.com.br",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Flávia Rodrigues Cantagalli",
+            "email": "flaviacantagalli@gmail.com",
+            "homepage": "http://www.srcidadao.com.br"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0",
+        "slim/slim": "^3.1",
+        "slim/php-view": "^2.0",
+        "monolog/monolog": "^1.17",
+        "catfan/Medoo": "*",
+        "tuupola/slim-jwt-auth": "^2.3",
+        "vlucas/phpdotenv": "^2.3",
+        "wazaari/monolog-mysql": "1.0.3",
+        "firebase/php-jwt": "^4.0",
+        "phpmailer/phpmailer": "^5.2",
+        "gregwar/image": "^2.0",
+        "paragraph1/php-fcm": "^0.7.0",
+        "guzzlehttp/guzzle": "^6.2",
+        "symfony/options-resolver": "~2.7|^3.0",
+        "php-http/client-common": "^1",
+        "php-http/message": "^1.0",
+        "php-http/guzzle6-adapter": "^1.1",
+        "defuse/php-encryption": "^2.0",
+        "phpfastcache/phpfastcache": "^6.0"		
+    },
+	"autoload" : {
+		"psr-4" : {
+			"MP\\" : "src/"	,
+			"OneSignal\\" : "vendor/onesignal-php-api-master/src/"	
+		}	
+	}
+}

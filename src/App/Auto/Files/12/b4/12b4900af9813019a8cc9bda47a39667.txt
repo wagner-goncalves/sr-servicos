@@ -1,0 +1,1 @@
+a:5:{s:1:"d";a:1:{i:0;a:5:{s:8:"curtidas";s:4:"1429";s:11:"descurtidas";s:3:"693";s:14:"curtidasAmigos";s:6:"269203";s:17:"descurtidasAmigos";s:6:"135649";s:7:"friends";s:3:"211";}}s:1:"g";a:0:{}s:1:"e";O:8:"DateTime":3:{s:4:"date";s:26:"2017-09-11 21:48:56.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Berlin";}s:1:"m";N;s:1:"c";N;}

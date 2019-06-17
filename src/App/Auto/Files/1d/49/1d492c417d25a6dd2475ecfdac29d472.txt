@@ -1,0 +1,1 @@
+a:5:{s:1:"d";a:1:{i:0;a:4:{s:12:"oidContasTcu";s:4:"9805";s:3:"cod";s:5:"37207";s:15:"inidoneoLicitar";s:14:"024.895/2013-0";s:14:"dataLancamento";s:19:"2015-11-19 00:00:00";}}s:1:"g";a:0:{}s:1:"e";O:8:"DateTime":3:{s:4:"date";s:26:"2017-09-14 18:03:46.000000";s:13:"timezone_type";i:3;s:8:"timezone";s:13:"Europe/Berlin";}s:1:"m";N;s:1:"c";N;}

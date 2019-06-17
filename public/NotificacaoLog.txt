@@ -1,0 +1,350 @@
+WAGNERWAGNERArray
+(
+    [oidUsuario] => 87
+    [oidNotificacao] => null
+    [oidTipoMensagem] => 4
+    [dados] => {"isAppInFocus":false,"shown":true,"androidNotificationId":1312860830,"displayType":0,"payload":{"notificationID":"795efc6f-f0f6-4e02-b641-a1e95b5132b3","title":"Educa\u00e7\u00e3o","body":"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?","additionalData":{"oidLembrete":"2","state":{"go":"app.lembrete","params":{"oidLembrete":"2"}},"oidTipoMensagem":"4"},"smallIcon":"ic_stat_sr_cidadao","largeIcon":"icon","ledColor":"00FF00FF","lockScreenVisibility":1,"groupKey":"SrCidadao","groupMessage":"$[notif_count] alertas","fromProjectNumber":"884092009918","priority":0,"rawPayload":"{\"google.sent_time\":1493825745213,\"custom\":\"{\\\"a\\\":{\\\"oidLembrete\\\":\\\"2\\\",\\\"state\\\":{\\\"go\\\":\\\"app.lembrete\\\",\\\"params\\\":{\\\"oidLembrete\\\":\\\"2\\\"}},\\\"oidTipoMensagem\\\":\\\"4\\\"},\\\"i\\\":\\\"795efc6f-f0f6-4e02-b641-a1e95b5132b3\\\"}\",\"grp\":\"SrCidadao\",\"from\":\"884092009918\",\"ledc\":\"00FF00FF\",\"alert\":\"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?\",\"licon\":\"icon\",\"sicon\":\"ic_stat_sr_cidadao\",\"title\":\"Educa\u00e7\u00e3o\",\"grp_msg\":\"$[notif_count] alertas\",\"google.message_id\":\"0:1493825745226839%24b8f38bf9fd7ecd\",\"notificationId\":1312860830}"}}
+    [dataHora] => 2017-05-03 12:35:46
+    [ip] => 179.243.149.39
+    [tipoRecebimento] => 0
+    [type] => 
+    [actionID] => 
+    [isAppInFocus] => 0
+    [shown] => 1
+    [androidNotificationId] => 1312860830
+    [displayType] => 0
+    [notificationId] => 795efc6f-f0f6-4e02-b641-a1e95b5132b3
+    [title] => Educação
+    [body] => Reforma do Ensino Médio: Como votou seu político?
+    [smallIcon] => ic_stat_sr_cidadao
+    [largeIcon] => icon
+    [bigPicture] => 
+    [smallIconAccentColor] => 
+    [launchUrl] => 
+    [sound] => 
+    [ledColor] => 00FF00FF
+    [lockScreenVisibility] => 1
+    [groupKey] => SrCidadao
+    [groupMessage] => $[notif_count] alertas
+    [fromProjectNumber] => 884092009918
+    [rawPayLoad] => {"google.sent_time":1493825745213,"custom":"{\"a\":{\"oidLembrete\":\"2\",\"state\":{\"go\":\"app.lembrete\",\"params\":{\"oidLembrete\":\"2\"}},\"oidTipoMensagem\":\"4\"},\"i\":\"795efc6f-f0f6-4e02-b641-a1e95b5132b3\"}","grp":"SrCidadao","from":"884092009918","ledc":"00FF00FF","alert":"Reforma do Ensino Médio: Como votou seu político?","licon":"icon","sicon":"ic_stat_sr_cidadao","title":"Educação","grp_msg":"$[notif_count] alertas","google.message_id":"0:1493825745226839%24b8f38bf9fd7ecd","notificationId":1312860830}
+)
+WAGNERWAGNERArray
+(
+    [oidUsuario] => 87
+    [oidNotificacao] => null
+    [oidTipoMensagem] => 4
+    [dados] => {"isAppInFocus":false,"shown":true,"androidNotificationId":-121059399,"displayType":0,"payload":{"notificationID":"cfdf7847-10dc-4423-a4ca-c45351a548d6","title":"Educa\u00e7\u00e3o","body":"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?","additionalData":{"oidLembrete":"2","state":{"go":"app.lembrete","params":{"oidLembrete":"2"}},"oidTipoMensagem":"4"},"smallIcon":"ic_stat_sr_cidadao","largeIcon":"icon","ledColor":"00FF00FF","lockScreenVisibility":1,"groupKey":"SrCidadao","groupMessage":"$[notif_count] alertas","fromProjectNumber":"884092009918","priority":0,"rawPayload":"{\"google.sent_time\":1493825843927,\"custom\":\"{\\\"a\\\":{\\\"oidLembrete\\\":\\\"2\\\",\\\"state\\\":{\\\"go\\\":\\\"app.lembrete\\\",\\\"params\\\":{\\\"oidLembrete\\\":\\\"2\\\"}},\\\"oidTipoMensagem\\\":\\\"4\\\"},\\\"i\\\":\\\"cfdf7847-10dc-4423-a4ca-c45351a548d6\\\"}\",\"grp\":\"SrCidadao\",\"from\":\"884092009918\",\"ledc\":\"00FF00FF\",\"alert\":\"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?\",\"licon\":\"icon\",\"sicon\":\"ic_stat_sr_cidadao\",\"title\":\"Educa\u00e7\u00e3o\",\"grp_msg\":\"$[notif_count] alertas\",\"google.message_id\":\"0:1493825843940271%24b8f38bf9fd7ecd\",\"notificationId\":-121059399}"}}
+    [dataHora] => 2017-05-03 12:37:25
+    [ip] => 179.243.149.39
+    [tipoRecebimento] => 0
+    [type] => 
+    [actionID] => 
+    [isAppInFocus] => 0
+    [shown] => 1
+    [androidNotificationId] => -121059399
+    [displayType] => 0
+    [notificationId] => cfdf7847-10dc-4423-a4ca-c45351a548d6
+    [title] => Educação
+    [body] => Reforma do Ensino Médio: Como votou seu político?
+    [smallIcon] => ic_stat_sr_cidadao
+    [largeIcon] => icon
+    [bigPicture] => 
+    [smallIconAccentColor] => 
+    [launchUrl] => 
+    [sound] => 
+    [ledColor] => 00FF00FF
+    [lockScreenVisibility] => 1
+    [groupKey] => SrCidadao
+    [groupMessage] => $[notif_count] alertas
+    [fromProjectNumber] => 884092009918
+    [rawPayLoad] => {"google.sent_time":1493825843927,"custom":"{\"a\":{\"oidLembrete\":\"2\",\"state\":{\"go\":\"app.lembrete\",\"params\":{\"oidLembrete\":\"2\"}},\"oidTipoMensagem\":\"4\"},\"i\":\"cfdf7847-10dc-4423-a4ca-c45351a548d6\"}","grp":"SrCidadao","from":"884092009918","ledc":"00FF00FF","alert":"Reforma do Ensino Médio: Como votou seu político?","licon":"icon","sicon":"ic_stat_sr_cidadao","title":"Educação","grp_msg":"$[notif_count] alertas","google.message_id":"0:1493825843940271%24b8f38bf9fd7ecd","notificationId":-121059399}
+)
+WAGNER0Array
+(
+    [oidUsuario] => 87
+    [oidNotificacao] => null
+    [oidTipoMensagem] => 4
+    [dados] => {"isAppInFocus":false,"shown":true,"androidNotificationId":572361776,"displayType":0,"payload":{"notificationID":"0c1c009d-06bf-4ac9-a3eb-c058908701f6","title":"Educa\u00e7\u00e3o","body":"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?","additionalData":{"oidLembrete":"2","state":{"go":"app.lembrete","params":{"oidLembrete":"2"}},"oidTipoMensagem":"4"},"smallIcon":"ic_stat_sr_cidadao","largeIcon":"icon","ledColor":"00FF00FF","lockScreenVisibility":1,"groupKey":"SrCidadao","groupMessage":"$[notif_count] alertas","fromProjectNumber":"884092009918","priority":0,"rawPayload":"{\"google.sent_time\":1493825935186,\"custom\":\"{\\\"a\\\":{\\\"oidLembrete\\\":\\\"2\\\",\\\"state\\\":{\\\"go\\\":\\\"app.lembrete\\\",\\\"params\\\":{\\\"oidLembrete\\\":\\\"2\\\"}},\\\"oidTipoMensagem\\\":\\\"4\\\"},\\\"i\\\":\\\"0c1c009d-06bf-4ac9-a3eb-c058908701f6\\\"}\",\"grp\":\"SrCidadao\",\"from\":\"884092009918\",\"ledc\":\"00FF00FF\",\"alert\":\"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?\",\"licon\":\"icon\",\"sicon\":\"ic_stat_sr_cidadao\",\"title\":\"Educa\u00e7\u00e3o\",\"grp_msg\":\"$[notif_count] alertas\",\"google.message_id\":\"0:1493825935196539%24b8f38bf9fd7ecd\",\"notificationId\":572361776}"}}
+    [dataHora] => 2017-05-03 12:38:56
+    [ip] => 179.243.149.39
+    [tipoRecebimento] => 0
+    [type] => 
+    [actionID] => 
+    [isAppInFocus] => 0
+    [shown] => 1
+    [androidNotificationId] => 572361776
+    [displayType] => 0
+    [notificationId] => 0c1c009d-06bf-4ac9-a3eb-c058908701f6
+    [title] => Educação
+    [body] => Reforma do Ensino Médio: Como votou seu político?
+    [smallIcon] => ic_stat_sr_cidadao
+    [largeIcon] => icon
+    [bigPicture] => 
+    [smallIconAccentColor] => 
+    [launchUrl] => 
+    [sound] => 
+    [ledColor] => 00FF00FF
+    [lockScreenVisibility] => 1
+    [groupKey] => SrCidadao
+    [groupMessage] => $[notif_count] alertas
+    [fromProjectNumber] => 884092009918
+    [rawPayLoad] => {"google.sent_time":1493825935186,"custom":"{\"a\":{\"oidLembrete\":\"2\",\"state\":{\"go\":\"app.lembrete\",\"params\":{\"oidLembrete\":\"2\"}},\"oidTipoMensagem\":\"4\"},\"i\":\"0c1c009d-06bf-4ac9-a3eb-c058908701f6\"}","grp":"SrCidadao","from":"884092009918","ledc":"00FF00FF","alert":"Reforma do Ensino Médio: Como votou seu político?","licon":"icon","sicon":"ic_stat_sr_cidadao","title":"Educação","grp_msg":"$[notif_count] alertas","google.message_id":"0:1493825935196539%24b8f38bf9fd7ecd","notificationId":572361776}
+)
+0Array
+(
+    [oidUsuario] => 87
+    [oidNotificacao] => null
+    [oidTipoMensagem] => 4
+    [dados] => {"action":{"type":0},"notification":{"isAppInFocus":false,"shown":true,"androidNotificationId":572361776,"displayType":0,"payload":{"notificationID":"0c1c009d-06bf-4ac9-a3eb-c058908701f6","title":"Educa\u00e7\u00e3o","body":"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?","additionalData":{"oidLembrete":"2","state":{"go":"app.lembrete","params":{"oidLembrete":"2"}},"oidTipoMensagem":"4"},"smallIcon":"ic_stat_sr_cidadao","largeIcon":"icon","ledColor":"00FF00FF","lockScreenVisibility":1,"groupKey":"SrCidadao","groupMessage":"$[notif_count] alertas","fromProjectNumber":"884092009918","priority":0,"rawPayload":"{\"google.sent_time\":1493825935186,\"custom\":\"{\\\"a\\\":{\\\"oidLembrete\\\":\\\"2\\\",\\\"state\\\":{\\\"go\\\":\\\"app.lembrete\\\",\\\"params\\\":{\\\"oidLembrete\\\":\\\"2\\\"}},\\\"oidTipoMensagem\\\":\\\"4\\\"},\\\"i\\\":\\\"0c1c009d-06bf-4ac9-a3eb-c058908701f6\\\"}\",\"grp\":\"SrCidadao\",\"from\":\"884092009918\",\"ledc\":\"00FF00FF\",\"alert\":\"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?\",\"licon\":\"icon\",\"sicon\":\"ic_stat_sr_cidadao\",\"title\":\"Educa\u00e7\u00e3o\",\"grp_msg\":\"$[notif_count] alertas\",\"google.message_id\":\"0:1493825935196539%24b8f38bf9fd7ecd\",\"notificationId\":572361776}"}}}
+    [dataHora] => 2017-05-03 12:39:00
+    [ip] => 179.243.149.39
+    [tipoRecebimento] => 1
+    [type] => 0
+    [actionID] => 
+    [isAppInFocus] => 0
+    [shown] => 1
+    [androidNotificationId] => 572361776
+    [displayType] => 0
+    [notificationId] => 0c1c009d-06bf-4ac9-a3eb-c058908701f6
+    [title] => Educação
+    [body] => Reforma do Ensino Médio: Como votou seu político?
+    [smallIcon] => ic_stat_sr_cidadao
+    [largeIcon] => icon
+    [bigPicture] => 
+    [smallIconAccentColor] => 
+    [launchUrl] => 
+    [sound] => 
+    [ledColor] => 00FF00FF
+    [lockScreenVisibility] => 1
+    [groupKey] => SrCidadao
+    [groupMessage] => $[notif_count] alertas
+    [fromProjectNumber] => 884092009918
+    [rawPayLoad] => {"google.sent_time":1493825935186,"custom":"{\"a\":{\"oidLembrete\":\"2\",\"state\":{\"go\":\"app.lembrete\",\"params\":{\"oidLembrete\":\"2\"}},\"oidTipoMensagem\":\"4\"},\"i\":\"0c1c009d-06bf-4ac9-a3eb-c058908701f6\"}","grp":"SrCidadao","from":"884092009918","ledc":"00FF00FF","alert":"Reforma do Ensino Médio: Como votou seu político?","licon":"icon","sicon":"ic_stat_sr_cidadao","title":"Educação","grp_msg":"$[notif_count] alertas","google.message_id":"0:1493825935196539%24b8f38bf9fd7ecd","notificationId":572361776}
+)
+
+#################
+Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+Array
+(
+    [oidUsuario] => 87
+    [oidNotificacao] => null
+    [oidTipoMensagem] => 4
+    [dados] => {"isAppInFocus":false,"shown":true,"androidNotificationId":-1305886428,"displayType":0,"payload":{"notificationID":"9594e978-b7e1-45d6-8180-2fa536403813","title":"Educa\u00e7\u00e3o","body":"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?","additionalData":{"oidLembrete":"2","state":{"go":"app.lembrete","params":{"oidLembrete":"2"}},"oidTipoMensagem":"4"},"smallIcon":"ic_stat_sr_cidadao","largeIcon":"icon","ledColor":"00FF00FF","lockScreenVisibility":1,"groupKey":"SrCidadao","groupMessage":"$[notif_count] alertas","fromProjectNumber":"884092009918","priority":0,"rawPayload":"{\"google.sent_time\":1493826100149,\"custom\":\"{\\\"a\\\":{\\\"oidLembrete\\\":\\\"2\\\",\\\"state\\\":{\\\"go\\\":\\\"app.lembrete\\\",\\\"params\\\":{\\\"oidLembrete\\\":\\\"2\\\"}},\\\"oidTipoMensagem\\\":\\\"4\\\"},\\\"i\\\":\\\"9594e978-b7e1-45d6-8180-2fa536403813\\\"}\",\"grp\":\"SrCidadao\",\"from\":\"884092009918\",\"ledc\":\"00FF00FF\",\"alert\":\"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?\",\"licon\":\"icon\",\"sicon\":\"ic_stat_sr_cidadao\",\"title\":\"Educa\u00e7\u00e3o\",\"grp_msg\":\"$[notif_count] alertas\",\"google.message_id\":\"0:1493826100162103%24b8f38bf9fd7ecd\",\"notificationId\":-1305886428}"}}
+    [dataHora] => 2017-05-03 12:41:40
+    [ip] => 179.243.149.39
+    [tipoRecebimento] => 0
+    [type] => 
+    [actionID] => 
+    [isAppInFocus] => 0
+    [shown] => 1
+    [androidNotificationId] => -1305886428
+    [displayType] => 0
+    [notificationId] => 9594e978-b7e1-45d6-8180-2fa536403813
+    [title] => Educação
+    [body] => Reforma do Ensino Médio: Como votou seu político?
+    [smallIcon] => ic_stat_sr_cidadao
+    [largeIcon] => icon
+    [bigPicture] => 
+    [smallIconAccentColor] => 
+    [launchUrl] => 
+    [sound] => 
+    [ledColor] => 00FF00FF
+    [lockScreenVisibility] => 1
+    [groupKey] => SrCidadao
+    [groupMessage] => $[notif_count] alertas
+    [fromProjectNumber] => 884092009918
+    [rawPayLoad] => {"google.sent_time":1493826100149,"custom":"{\"a\":{\"oidLembrete\":\"2\",\"state\":{\"go\":\"app.lembrete\",\"params\":{\"oidLembrete\":\"2\"}},\"oidTipoMensagem\":\"4\"},\"i\":\"9594e978-b7e1-45d6-8180-2fa536403813\"}","grp":"SrCidadao","from":"884092009918","ledc":"00FF00FF","alert":"Reforma do Ensino Médio: Como votou seu político?","licon":"icon","sicon":"ic_stat_sr_cidadao","title":"Educação","grp_msg":"$[notif_count] alertas","google.message_id":"0:1493826100162103%24b8f38bf9fd7ecd","notificationId":-1305886428}
+)
+
+#################
+Array
+(
+    [0] => 00000
+    [1] => 
+    [2] => 
+)
+Array
+(
+    [oidUsuario] => 87
+    [oidNotificacao] => null
+    [oidTipoMensagem] => 4
+    [dados] => {"action":{"type":0},"notification":{"isAppInFocus":false,"shown":true,"androidNotificationId":-1305886428,"displayType":0,"payload":{"notificationID":"9594e978-b7e1-45d6-8180-2fa536403813","title":"Educa\u00e7\u00e3o","body":"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?","additionalData":{"oidLembrete":"2","state":{"go":"app.lembrete","params":{"oidLembrete":"2"}},"oidTipoMensagem":"4"},"smallIcon":"ic_stat_sr_cidadao","largeIcon":"icon","ledColor":"00FF00FF","lockScreenVisibility":1,"groupKey":"SrCidadao","groupMessage":"$[notif_count] alertas","fromProjectNumber":"884092009918","priority":0,"rawPayload":"{\"google.sent_time\":1493826100149,\"custom\":\"{\\\"a\\\":{\\\"oidLembrete\\\":\\\"2\\\",\\\"state\\\":{\\\"go\\\":\\\"app.lembrete\\\",\\\"params\\\":{\\\"oidLembrete\\\":\\\"2\\\"}},\\\"oidTipoMensagem\\\":\\\"4\\\"},\\\"i\\\":\\\"9594e978-b7e1-45d6-8180-2fa536403813\\\"}\",\"grp\":\"SrCidadao\",\"from\":\"884092009918\",\"ledc\":\"00FF00FF\",\"alert\":\"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?\",\"licon\":\"icon\",\"sicon\":\"ic_stat_sr_cidadao\",\"title\":\"Educa\u00e7\u00e3o\",\"grp_msg\":\"$[notif_count] alertas\",\"google.message_id\":\"0:1493826100162103%24b8f38bf9fd7ecd\",\"notificationId\":-1305886428}"}}}
+    [dataHora] => 2017-05-03 12:41:43
+    [ip] => 179.243.149.39
+    [tipoRecebimento] => 1
+    [type] => 0
+    [actionID] => 
+    [isAppInFocus] => 0
+    [shown] => 1
+    [androidNotificationId] => -1305886428
+    [displayType] => 0
+    [notificationId] => 9594e978-b7e1-45d6-8180-2fa536403813
+    [title] => Educação
+    [body] => Reforma do Ensino Médio: Como votou seu político?
+    [smallIcon] => ic_stat_sr_cidadao
+    [largeIcon] => icon
+    [bigPicture] => 
+    [smallIconAccentColor] => 
+    [launchUrl] => 
+    [sound] => 
+    [ledColor] => 00FF00FF
+    [lockScreenVisibility] => 1
+    [groupKey] => SrCidadao
+    [groupMessage] => $[notif_count] alertas
+    [fromProjectNumber] => 884092009918
+    [rawPayLoad] => {"google.sent_time":1493826100149,"custom":"{\"a\":{\"oidLembrete\":\"2\",\"state\":{\"go\":\"app.lembrete\",\"params\":{\"oidLembrete\":\"2\"}},\"oidTipoMensagem\":\"4\"},\"i\":\"9594e978-b7e1-45d6-8180-2fa536403813\"}","grp":"SrCidadao","from":"884092009918","ledc":"00FF00FF","alert":"Reforma do Ensino Médio: Como votou seu político?","licon":"icon","sicon":"ic_stat_sr_cidadao","title":"Educação","grp_msg":"$[notif_count] alertas","google.message_id":"0:1493826100162103%24b8f38bf9fd7ecd","notificationId":-1305886428}
+)
+
+#################
+Array
+(
+    [0] => INSERT INTO "dadosnotificacao" ("oidUsuario", "oidNotificacao", "oidTipoMensagem", "dados", "dataHora", "ip", "tipoRecebimento", "type", "actionID", "isAppInFocus", "shown", "androidNotificationId", "displayType", "notificationId", "title", "body", "smallIcon", "largeIcon", "bigPicture", "smallIconAccentColor", "launchUrl", "sound", "ledColor", "lockScreenVisibility", "groupKey", "groupMessage", "fromProjectNumber", "rawPayLoad") VALUES ('87', 'null', '4', '{\"isAppInFocus\":false,\"shown\":true,\"androidNotificationId\":148176557,\"displayType\":0,\"payload\":{\"notificationID\":\"b3d454aa-78e9-4237-aa7e-9b5657daec4b\",\"title\":\"Educa\\u00e7\\u00e3o\",\"body\":\"Reforma do Ensino M\\u00e9dio: Como votou seu pol\\u00edtico?\",\"additionalData\":{\"oidLembrete\":\"2\",\"state\":{\"go\":\"app.lembrete\",\"params\":{\"oidLembrete\":\"2\"}},\"oidTipoMensagem\":\"4\"},\"smallIcon\":\"ic_stat_sr_cidadao\",\"largeIcon\":\"icon\",\"ledColor\":\"00FF00FF\",\"lockScreenVisibility\":1,\"groupKey\":\"SrCidadao\",\"groupMessage\":\"$[notif_count] alertas\",\"fromProjectNumber\":\"884092009918\",\"priority\":0,\"rawPayload\":\"{\\\"google.sent_time\\\":1493826508069,\\\"custom\\\":\\\"{\\\\\\\"a\\\\\\\":{\\\\\\\"oidLembrete\\\\\\\":\\\\\\\"2\\\\\\\",\\\\\\\"state\\\\\\\":{\\\\\\\"go\\\\\\\":\\\\\\\"app.lembrete\\\\\\\",\\\\\\\"params\\\\\\\":{\\\\\\\"oidLembrete\\\\\\\":\\\\\\\"2\\\\\\\"}},\\\\\\\"oidTipoMensagem\\\\\\\":\\\\\\\"4\\\\\\\"},\\\\\\\"i\\\\\\\":\\\\\\\"b3d454aa-78e9-4237-aa7e-9b5657daec4b\\\\\\\"}\\\",\\\"grp\\\":\\\"SrCidadao\\\",\\\"from\\\":\\\"884092009918\\\",\\\"ledc\\\":\\\"00FF00FF\\\",\\\"alert\\\":\\\"Reforma do Ensino M\\u00e9dio: Como votou seu pol\\u00edtico?\\\",\\\"licon\\\":\\\"icon\\\",\\\"sicon\\\":\\\"ic_stat_sr_cidadao\\\",\\\"title\\\":\\\"Educa\\u00e7\\u00e3o\\\",\\\"grp_msg\\\":\\\"$[notif_count] alertas\\\",\\\"google.message_id\\\":\\\"0:1493826508095984%24b8f38bf9fd7ecd\\\",\\\"notificationId\\\":148176557}\"}}', '2017-05-03 12:48:29', '179.243.149.39', '0', '', '', '0', 1, '148176557', '0', 'b3d454aa-78e9-4237-aa7e-9b5657daec4b', 'Educação', 'Reforma do Ensino Médio: Como votou seu político?', 'ic_stat_sr_cidadao', 'icon', '', '', '', '', '00FF00FF', '1', 'SrCidadao', '$[notif_count] alertas', '884092009918', '{\"google.sent_time\":1493826508069,\"custom\":\"{\\\"a\\\":{\\\"oidLembrete\\\":\\\"2\\\",\\\"state\\\":{\\\"go\\\":\\\"app.lembrete\\\",\\\"params\\\":{\\\"oidLembrete\\\":\\\"2\\\"}},\\\"oidTipoMensagem\\\":\\\"4\\\"},\\\"i\\\":\\\"b3d454aa-78e9-4237-aa7e-9b5657daec4b\\\"}\",\"grp\":\"SrCidadao\",\"from\":\"884092009918\",\"ledc\":\"00FF00FF\",\"alert\":\"Reforma do Ensino Médio: Como votou seu político?\",\"licon\":\"icon\",\"sicon\":\"ic_stat_sr_cidadao\",\"title\":\"Educação\",\"grp_msg\":\"$[notif_count] alertas\",\"google.message_id\":\"0:1493826508095984%24b8f38bf9fd7ecd\",\"notificationId\":148176557}')
+)
+Array
+(
+    [oidUsuario] => 87
+    [oidNotificacao] => null
+    [oidTipoMensagem] => 4
+    [dados] => {"isAppInFocus":false,"shown":true,"androidNotificationId":148176557,"displayType":0,"payload":{"notificationID":"b3d454aa-78e9-4237-aa7e-9b5657daec4b","title":"Educa\u00e7\u00e3o","body":"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?","additionalData":{"oidLembrete":"2","state":{"go":"app.lembrete","params":{"oidLembrete":"2"}},"oidTipoMensagem":"4"},"smallIcon":"ic_stat_sr_cidadao","largeIcon":"icon","ledColor":"00FF00FF","lockScreenVisibility":1,"groupKey":"SrCidadao","groupMessage":"$[notif_count] alertas","fromProjectNumber":"884092009918","priority":0,"rawPayload":"{\"google.sent_time\":1493826508069,\"custom\":\"{\\\"a\\\":{\\\"oidLembrete\\\":\\\"2\\\",\\\"state\\\":{\\\"go\\\":\\\"app.lembrete\\\",\\\"params\\\":{\\\"oidLembrete\\\":\\\"2\\\"}},\\\"oidTipoMensagem\\\":\\\"4\\\"},\\\"i\\\":\\\"b3d454aa-78e9-4237-aa7e-9b5657daec4b\\\"}\",\"grp\":\"SrCidadao\",\"from\":\"884092009918\",\"ledc\":\"00FF00FF\",\"alert\":\"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?\",\"licon\":\"icon\",\"sicon\":\"ic_stat_sr_cidadao\",\"title\":\"Educa\u00e7\u00e3o\",\"grp_msg\":\"$[notif_count] alertas\",\"google.message_id\":\"0:1493826508095984%24b8f38bf9fd7ecd\",\"notificationId\":148176557}"}}
+    [dataHora] => 2017-05-03 12:48:29
+    [ip] => 179.243.149.39
+    [tipoRecebimento] => 0
+    [type] => 
+    [actionID] => 
+    [isAppInFocus] => 0
+    [shown] => 1
+    [androidNotificationId] => 148176557
+    [displayType] => 0
+    [notificationId] => b3d454aa-78e9-4237-aa7e-9b5657daec4b
+    [title] => Educação
+    [body] => Reforma do Ensino Médio: Como votou seu político?
+    [smallIcon] => ic_stat_sr_cidadao
+    [largeIcon] => icon
+    [bigPicture] => 
+    [smallIconAccentColor] => 
+    [launchUrl] => 
+    [sound] => 
+    [ledColor] => 00FF00FF
+    [lockScreenVisibility] => 1
+    [groupKey] => SrCidadao
+    [groupMessage] => $[notif_count] alertas
+    [fromProjectNumber] => 884092009918
+    [rawPayLoad] => {"google.sent_time":1493826508069,"custom":"{\"a\":{\"oidLembrete\":\"2\",\"state\":{\"go\":\"app.lembrete\",\"params\":{\"oidLembrete\":\"2\"}},\"oidTipoMensagem\":\"4\"},\"i\":\"b3d454aa-78e9-4237-aa7e-9b5657daec4b\"}","grp":"SrCidadao","from":"884092009918","ledc":"00FF00FF","alert":"Reforma do Ensino Médio: Como votou seu político?","licon":"icon","sicon":"ic_stat_sr_cidadao","title":"Educação","grp_msg":"$[notif_count] alertas","google.message_id":"0:1493826508095984%24b8f38bf9fd7ecd","notificationId":148176557}
+)
+
+#################
+Array
+(
+    [0] => INSERT INTO "dadosnotificacao" ("oidUsuario", "oidNotificacao", "oidTipoMensagem", "dados", "dataHora", "ip", "tipoRecebimento", "type", "actionID", "isAppInFocus", "shown", "androidNotificationId", "displayType", "notificationId", "title", "body", "smallIcon", "largeIcon", "bigPicture", "smallIconAccentColor", "launchUrl", "sound", "ledColor", "lockScreenVisibility", "groupKey", "groupMessage", "fromProjectNumber", "rawPayLoad") VALUES ('87', 'null', '4', '{\"action\":{\"type\":0},\"notification\":{\"isAppInFocus\":false,\"shown\":true,\"androidNotificationId\":148176557,\"displayType\":0,\"payload\":{\"notificationID\":\"b3d454aa-78e9-4237-aa7e-9b5657daec4b\",\"title\":\"Educa\\u00e7\\u00e3o\",\"body\":\"Reforma do Ensino M\\u00e9dio: Como votou seu pol\\u00edtico?\",\"additionalData\":{\"oidLembrete\":\"2\",\"state\":{\"go\":\"app.lembrete\",\"params\":{\"oidLembrete\":\"2\"}},\"oidTipoMensagem\":\"4\"},\"smallIcon\":\"ic_stat_sr_cidadao\",\"largeIcon\":\"icon\",\"ledColor\":\"00FF00FF\",\"lockScreenVisibility\":1,\"groupKey\":\"SrCidadao\",\"groupMessage\":\"$[notif_count] alertas\",\"fromProjectNumber\":\"884092009918\",\"priority\":0,\"rawPayload\":\"{\\\"google.sent_time\\\":1493826508069,\\\"custom\\\":\\\"{\\\\\\\"a\\\\\\\":{\\\\\\\"oidLembrete\\\\\\\":\\\\\\\"2\\\\\\\",\\\\\\\"state\\\\\\\":{\\\\\\\"go\\\\\\\":\\\\\\\"app.lembrete\\\\\\\",\\\\\\\"params\\\\\\\":{\\\\\\\"oidLembrete\\\\\\\":\\\\\\\"2\\\\\\\"}},\\\\\\\"oidTipoMensagem\\\\\\\":\\\\\\\"4\\\\\\\"},\\\\\\\"i\\\\\\\":\\\\\\\"b3d454aa-78e9-4237-aa7e-9b5657daec4b\\\\\\\"}\\\",\\\"grp\\\":\\\"SrCidadao\\\",\\\"from\\\":\\\"884092009918\\\",\\\"ledc\\\":\\\"00FF00FF\\\",\\\"alert\\\":\\\"Reforma do Ensino M\\u00e9dio: Como votou seu pol\\u00edtico?\\\",\\\"licon\\\":\\\"icon\\\",\\\"sicon\\\":\\\"ic_stat_sr_cidadao\\\",\\\"title\\\":\\\"Educa\\u00e7\\u00e3o\\\",\\\"grp_msg\\\":\\\"$[notif_count] alertas\\\",\\\"google.message_id\\\":\\\"0:1493826508095984%24b8f38bf9fd7ecd\\\",\\\"notificationId\\\":148176557}\"}}}', '2017-05-03 12:48:35', '179.243.149.39', '1', '0', '', '0', 1, '148176557', '0', 'b3d454aa-78e9-4237-aa7e-9b5657daec4b', 'Educação', 'Reforma do Ensino Médio: Como votou seu político?', 'ic_stat_sr_cidadao', 'icon', '', '', '', '', '00FF00FF', '1', 'SrCidadao', '$[notif_count] alertas', '884092009918', '{\"google.sent_time\":1493826508069,\"custom\":\"{\\\"a\\\":{\\\"oidLembrete\\\":\\\"2\\\",\\\"state\\\":{\\\"go\\\":\\\"app.lembrete\\\",\\\"params\\\":{\\\"oidLembrete\\\":\\\"2\\\"}},\\\"oidTipoMensagem\\\":\\\"4\\\"},\\\"i\\\":\\\"b3d454aa-78e9-4237-aa7e-9b5657daec4b\\\"}\",\"grp\":\"SrCidadao\",\"from\":\"884092009918\",\"ledc\":\"00FF00FF\",\"alert\":\"Reforma do Ensino Médio: Como votou seu político?\",\"licon\":\"icon\",\"sicon\":\"ic_stat_sr_cidadao\",\"title\":\"Educação\",\"grp_msg\":\"$[notif_count] alertas\",\"google.message_id\":\"0:1493826508095984%24b8f38bf9fd7ecd\",\"notificationId\":148176557}')
+)
+Array
+(
+    [oidUsuario] => 87
+    [oidNotificacao] => null
+    [oidTipoMensagem] => 4
+    [dados] => {"action":{"type":0},"notification":{"isAppInFocus":false,"shown":true,"androidNotificationId":148176557,"displayType":0,"payload":{"notificationID":"b3d454aa-78e9-4237-aa7e-9b5657daec4b","title":"Educa\u00e7\u00e3o","body":"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?","additionalData":{"oidLembrete":"2","state":{"go":"app.lembrete","params":{"oidLembrete":"2"}},"oidTipoMensagem":"4"},"smallIcon":"ic_stat_sr_cidadao","largeIcon":"icon","ledColor":"00FF00FF","lockScreenVisibility":1,"groupKey":"SrCidadao","groupMessage":"$[notif_count] alertas","fromProjectNumber":"884092009918","priority":0,"rawPayload":"{\"google.sent_time\":1493826508069,\"custom\":\"{\\\"a\\\":{\\\"oidLembrete\\\":\\\"2\\\",\\\"state\\\":{\\\"go\\\":\\\"app.lembrete\\\",\\\"params\\\":{\\\"oidLembrete\\\":\\\"2\\\"}},\\\"oidTipoMensagem\\\":\\\"4\\\"},\\\"i\\\":\\\"b3d454aa-78e9-4237-aa7e-9b5657daec4b\\\"}\",\"grp\":\"SrCidadao\",\"from\":\"884092009918\",\"ledc\":\"00FF00FF\",\"alert\":\"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?\",\"licon\":\"icon\",\"sicon\":\"ic_stat_sr_cidadao\",\"title\":\"Educa\u00e7\u00e3o\",\"grp_msg\":\"$[notif_count] alertas\",\"google.message_id\":\"0:1493826508095984%24b8f38bf9fd7ecd\",\"notificationId\":148176557}"}}}
+    [dataHora] => 2017-05-03 12:48:35
+    [ip] => 179.243.149.39
+    [tipoRecebimento] => 1
+    [type] => 0
+    [actionID] => 
+    [isAppInFocus] => 0
+    [shown] => 1
+    [androidNotificationId] => 148176557
+    [displayType] => 0
+    [notificationId] => b3d454aa-78e9-4237-aa7e-9b5657daec4b
+    [title] => Educação
+    [body] => Reforma do Ensino Médio: Como votou seu político?
+    [smallIcon] => ic_stat_sr_cidadao
+    [largeIcon] => icon
+    [bigPicture] => 
+    [smallIconAccentColor] => 
+    [launchUrl] => 
+    [sound] => 
+    [ledColor] => 00FF00FF
+    [lockScreenVisibility] => 1
+    [groupKey] => SrCidadao
+    [groupMessage] => $[notif_count] alertas
+    [fromProjectNumber] => 884092009918
+    [rawPayLoad] => {"google.sent_time":1493826508069,"custom":"{\"a\":{\"oidLembrete\":\"2\",\"state\":{\"go\":\"app.lembrete\",\"params\":{\"oidLembrete\":\"2\"}},\"oidTipoMensagem\":\"4\"},\"i\":\"b3d454aa-78e9-4237-aa7e-9b5657daec4b\"}","grp":"SrCidadao","from":"884092009918","ledc":"00FF00FF","alert":"Reforma do Ensino Médio: Como votou seu político?","licon":"icon","sicon":"ic_stat_sr_cidadao","title":"Educação","grp_msg":"$[notif_count] alertas","google.message_id":"0:1493826508095984%24b8f38bf9fd7ecd","notificationId":148176557}
+)
+
+#################
+Array
+(
+    [0] => INSERT INTO "dadosnotificacao" ("oidUsuario", "oidNotificacao", "oidTipoMensagem", "dados", "dataHora", "ip", "tipoRecebimento", "type", "actionID", "isAppInFocus", "shown", "androidNotificationId", "displayType", "notificationId", "title", "body", "smallIcon", "largeIcon", "bigPicture", "smallIconAccentColor", "launchUrl", "sound", "ledColor", "lockScreenVisibility", "groupKey", "groupMessage", "fromProjectNumber", "rawPayLoad") VALUES ('87', 'null', '4', '{\"isAppInFocus\":false,\"shown\":true,\"androidNotificationId\":1562045850,\"displayType\":0,\"payload\":{\"notificationID\":\"61683003-9445-4c7f-9341-c4738509eb09\",\"title\":\"Educa\\u00e7\\u00e3o\",\"body\":\"Reforma do Ensino M\\u00e9dio: Como votou seu pol\\u00edtico?\",\"additionalData\":{\"oidLembrete\":\"2\",\"state\":{\"go\":\"app.lembrete\",\"params\":{\"oidLembrete\":\"2\"}},\"oidTipoMensagem\":\"4\"},\"smallIcon\":\"ic_stat_sr_cidadao\",\"largeIcon\":\"icon\",\"ledColor\":\"00FF00FF\",\"lockScreenVisibility\":1,\"groupKey\":\"SrCidadao\",\"groupMessage\":\"$[notif_count] alertas\",\"fromProjectNumber\":\"884092009918\",\"priority\":0,\"rawPayload\":\"{\\\"google.sent_time\\\":1493826845110,\\\"custom\\\":\\\"{\\\\\\\"a\\\\\\\":{\\\\\\\"oidLembrete\\\\\\\":\\\\\\\"2\\\\\\\",\\\\\\\"state\\\\\\\":{\\\\\\\"go\\\\\\\":\\\\\\\"app.lembrete\\\\\\\",\\\\\\\"params\\\\\\\":{\\\\\\\"oidLembrete\\\\\\\":\\\\\\\"2\\\\\\\"}},\\\\\\\"oidTipoMensagem\\\\\\\":\\\\\\\"4\\\\\\\"},\\\\\\\"i\\\\\\\":\\\\\\\"61683003-9445-4c7f-9341-c4738509eb09\\\\\\\"}\\\",\\\"grp\\\":\\\"SrCidadao\\\",\\\"from\\\":\\\"884092009918\\\",\\\"ledc\\\":\\\"00FF00FF\\\",\\\"alert\\\":\\\"Reforma do Ensino M\\u00e9dio: Como votou seu pol\\u00edtico?\\\",\\\"licon\\\":\\\"icon\\\",\\\"sicon\\\":\\\"ic_stat_sr_cidadao\\\",\\\"title\\\":\\\"Educa\\u00e7\\u00e3o\\\",\\\"grp_msg\\\":\\\"$[notif_count] alertas\\\",\\\"google.message_id\\\":\\\"0:1493826845124718%24b8f38bf9fd7ecd\\\",\\\"notificationId\\\":1562045850}\"}}', '2017-05-03 12:54:06', '179.243.149.39', '0', '', '', '0', 1, '1562045850', '0', '61683003-9445-4c7f-9341-c4738509eb09', 'Educação', 'Reforma do Ensino Médio: Como votou seu político?', 'ic_stat_sr_cidadao', 'icon', '', '', '', '', '00FF00FF', '1', 'SrCidadao', '$[notif_count] alertas', '884092009918', '{\"google.sent_time\":1493826845110,\"custom\":\"{\\\"a\\\":{\\\"oidLembrete\\\":\\\"2\\\",\\\"state\\\":{\\\"go\\\":\\\"app.lembrete\\\",\\\"params\\\":{\\\"oidLembrete\\\":\\\"2\\\"}},\\\"oidTipoMensagem\\\":\\\"4\\\"},\\\"i\\\":\\\"61683003-9445-4c7f-9341-c4738509eb09\\\"}\",\"grp\":\"SrCidadao\",\"from\":\"884092009918\",\"ledc\":\"00FF00FF\",\"alert\":\"Reforma do Ensino Médio: Como votou seu político?\",\"licon\":\"icon\",\"sicon\":\"ic_stat_sr_cidadao\",\"title\":\"Educação\",\"grp_msg\":\"$[notif_count] alertas\",\"google.message_id\":\"0:1493826845124718%24b8f38bf9fd7ecd\",\"notificationId\":1562045850}')
+)
+Array
+(
+    [oidUsuario] => 87
+    [oidNotificacao] => null
+    [oidTipoMensagem] => 4
+    [dados] => {"isAppInFocus":false,"shown":true,"androidNotificationId":1562045850,"displayType":0,"payload":{"notificationID":"61683003-9445-4c7f-9341-c4738509eb09","title":"Educa\u00e7\u00e3o","body":"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?","additionalData":{"oidLembrete":"2","state":{"go":"app.lembrete","params":{"oidLembrete":"2"}},"oidTipoMensagem":"4"},"smallIcon":"ic_stat_sr_cidadao","largeIcon":"icon","ledColor":"00FF00FF","lockScreenVisibility":1,"groupKey":"SrCidadao","groupMessage":"$[notif_count] alertas","fromProjectNumber":"884092009918","priority":0,"rawPayload":"{\"google.sent_time\":1493826845110,\"custom\":\"{\\\"a\\\":{\\\"oidLembrete\\\":\\\"2\\\",\\\"state\\\":{\\\"go\\\":\\\"app.lembrete\\\",\\\"params\\\":{\\\"oidLembrete\\\":\\\"2\\\"}},\\\"oidTipoMensagem\\\":\\\"4\\\"},\\\"i\\\":\\\"61683003-9445-4c7f-9341-c4738509eb09\\\"}\",\"grp\":\"SrCidadao\",\"from\":\"884092009918\",\"ledc\":\"00FF00FF\",\"alert\":\"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?\",\"licon\":\"icon\",\"sicon\":\"ic_stat_sr_cidadao\",\"title\":\"Educa\u00e7\u00e3o\",\"grp_msg\":\"$[notif_count] alertas\",\"google.message_id\":\"0:1493826845124718%24b8f38bf9fd7ecd\",\"notificationId\":1562045850}"}}
+    [dataHora] => 2017-05-03 12:54:06
+    [ip] => 179.243.149.39
+    [tipoRecebimento] => 0
+    [type] => 
+    [actionID] => 
+    [isAppInFocus] => 0
+    [shown] => 1
+    [androidNotificationId] => 1562045850
+    [displayType] => 0
+    [notificationId] => 61683003-9445-4c7f-9341-c4738509eb09
+    [title] => Educação
+    [body] => Reforma do Ensino Médio: Como votou seu político?
+    [smallIcon] => ic_stat_sr_cidadao
+    [largeIcon] => icon
+    [bigPicture] => 
+    [smallIconAccentColor] => 
+    [launchUrl] => 
+    [sound] => 
+    [ledColor] => 00FF00FF
+    [lockScreenVisibility] => 1
+    [groupKey] => SrCidadao
+    [groupMessage] => $[notif_count] alertas
+    [fromProjectNumber] => 884092009918
+    [rawPayLoad] => {"google.sent_time":1493826845110,"custom":"{\"a\":{\"oidLembrete\":\"2\",\"state\":{\"go\":\"app.lembrete\",\"params\":{\"oidLembrete\":\"2\"}},\"oidTipoMensagem\":\"4\"},\"i\":\"61683003-9445-4c7f-9341-c4738509eb09\"}","grp":"SrCidadao","from":"884092009918","ledc":"00FF00FF","alert":"Reforma do Ensino Médio: Como votou seu político?","licon":"icon","sicon":"ic_stat_sr_cidadao","title":"Educação","grp_msg":"$[notif_count] alertas","google.message_id":"0:1493826845124718%24b8f38bf9fd7ecd","notificationId":1562045850}
+)
+
+#################
+Array
+(
+    [0] => INSERT INTO "dadosnotificacao" ("oidUsuario", "oidNotificacao", "oidTipoMensagem", "dados", "dataHora", "ip", "tipoRecebimento", "type", "actionID", "isAppInFocus", "shown", "androidNotificationId", "displayType", "notificationId", "title", "body", "smallIcon", "largeIcon", "bigPicture", "smallIconAccentColor", "launchUrl", "sound", "ledColor", "lockScreenVisibility", "groupKey", "groupMessage", "fromProjectNumber", "rawPayLoad") VALUES ('87', 'null', '4', '{\"action\":{\"type\":0},\"notification\":{\"isAppInFocus\":false,\"shown\":true,\"androidNotificationId\":1562045850,\"displayType\":0,\"payload\":{\"notificationID\":\"61683003-9445-4c7f-9341-c4738509eb09\",\"title\":\"Educa\\u00e7\\u00e3o\",\"body\":\"Reforma do Ensino M\\u00e9dio: Como votou seu pol\\u00edtico?\",\"additionalData\":{\"oidLembrete\":\"2\",\"state\":{\"go\":\"app.lembrete\",\"params\":{\"oidLembrete\":\"2\"}},\"oidTipoMensagem\":\"4\"},\"smallIcon\":\"ic_stat_sr_cidadao\",\"largeIcon\":\"icon\",\"ledColor\":\"00FF00FF\",\"lockScreenVisibility\":1,\"groupKey\":\"SrCidadao\",\"groupMessage\":\"$[notif_count] alertas\",\"fromProjectNumber\":\"884092009918\",\"priority\":0,\"rawPayload\":\"{\\\"google.sent_time\\\":1493826845110,\\\"custom\\\":\\\"{\\\\\\\"a\\\\\\\":{\\\\\\\"oidLembrete\\\\\\\":\\\\\\\"2\\\\\\\",\\\\\\\"state\\\\\\\":{\\\\\\\"go\\\\\\\":\\\\\\\"app.lembrete\\\\\\\",\\\\\\\"params\\\\\\\":{\\\\\\\"oidLembrete\\\\\\\":\\\\\\\"2\\\\\\\"}},\\\\\\\"oidTipoMensagem\\\\\\\":\\\\\\\"4\\\\\\\"},\\\\\\\"i\\\\\\\":\\\\\\\"61683003-9445-4c7f-9341-c4738509eb09\\\\\\\"}\\\",\\\"grp\\\":\\\"SrCidadao\\\",\\\"from\\\":\\\"884092009918\\\",\\\"ledc\\\":\\\"00FF00FF\\\",\\\"alert\\\":\\\"Reforma do Ensino M\\u00e9dio: Como votou seu pol\\u00edtico?\\\",\\\"licon\\\":\\\"icon\\\",\\\"sicon\\\":\\\"ic_stat_sr_cidadao\\\",\\\"title\\\":\\\"Educa\\u00e7\\u00e3o\\\",\\\"grp_msg\\\":\\\"$[notif_count] alertas\\\",\\\"google.message_id\\\":\\\"0:1493826845124718%24b8f38bf9fd7ecd\\\",\\\"notificationId\\\":1562045850}\"}}}', '2017-05-03 12:54:08', '179.243.149.39', '1', '0', '', '0', 1, '1562045850', '0', '61683003-9445-4c7f-9341-c4738509eb09', 'Educação', 'Reforma do Ensino Médio: Como votou seu político?', 'ic_stat_sr_cidadao', 'icon', '', '', '', '', '00FF00FF', '1', 'SrCidadao', '$[notif_count] alertas', '884092009918', '{\"google.sent_time\":1493826845110,\"custom\":\"{\\\"a\\\":{\\\"oidLembrete\\\":\\\"2\\\",\\\"state\\\":{\\\"go\\\":\\\"app.lembrete\\\",\\\"params\\\":{\\\"oidLembrete\\\":\\\"2\\\"}},\\\"oidTipoMensagem\\\":\\\"4\\\"},\\\"i\\\":\\\"61683003-9445-4c7f-9341-c4738509eb09\\\"}\",\"grp\":\"SrCidadao\",\"from\":\"884092009918\",\"ledc\":\"00FF00FF\",\"alert\":\"Reforma do Ensino Médio: Como votou seu político?\",\"licon\":\"icon\",\"sicon\":\"ic_stat_sr_cidadao\",\"title\":\"Educação\",\"grp_msg\":\"$[notif_count] alertas\",\"google.message_id\":\"0:1493826845124718%24b8f38bf9fd7ecd\",\"notificationId\":1562045850}')
+)
+Array
+(
+    [oidUsuario] => 87
+    [oidNotificacao] => null
+    [oidTipoMensagem] => 4
+    [dados] => {"action":{"type":0},"notification":{"isAppInFocus":false,"shown":true,"androidNotificationId":1562045850,"displayType":0,"payload":{"notificationID":"61683003-9445-4c7f-9341-c4738509eb09","title":"Educa\u00e7\u00e3o","body":"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?","additionalData":{"oidLembrete":"2","state":{"go":"app.lembrete","params":{"oidLembrete":"2"}},"oidTipoMensagem":"4"},"smallIcon":"ic_stat_sr_cidadao","largeIcon":"icon","ledColor":"00FF00FF","lockScreenVisibility":1,"groupKey":"SrCidadao","groupMessage":"$[notif_count] alertas","fromProjectNumber":"884092009918","priority":0,"rawPayload":"{\"google.sent_time\":1493826845110,\"custom\":\"{\\\"a\\\":{\\\"oidLembrete\\\":\\\"2\\\",\\\"state\\\":{\\\"go\\\":\\\"app.lembrete\\\",\\\"params\\\":{\\\"oidLembrete\\\":\\\"2\\\"}},\\\"oidTipoMensagem\\\":\\\"4\\\"},\\\"i\\\":\\\"61683003-9445-4c7f-9341-c4738509eb09\\\"}\",\"grp\":\"SrCidadao\",\"from\":\"884092009918\",\"ledc\":\"00FF00FF\",\"alert\":\"Reforma do Ensino M\u00e9dio: Como votou seu pol\u00edtico?\",\"licon\":\"icon\",\"sicon\":\"ic_stat_sr_cidadao\",\"title\":\"Educa\u00e7\u00e3o\",\"grp_msg\":\"$[notif_count] alertas\",\"google.message_id\":\"0:1493826845124718%24b8f38bf9fd7ecd\",\"notificationId\":1562045850}"}}}
+    [dataHora] => 2017-05-03 12:54:08
+    [ip] => 179.243.149.39
+    [tipoRecebimento] => 1
+    [type] => 0
+    [actionID] => 
+    [isAppInFocus] => 0
+    [shown] => 1
+    [androidNotificationId] => 1562045850
+    [displayType] => 0
+    [notificationId] => 61683003-9445-4c7f-9341-c4738509eb09
+    [title] => Educação
+    [body] => Reforma do Ensino Médio: Como votou seu político?
+    [smallIcon] => ic_stat_sr_cidadao
+    [largeIcon] => icon
+    [bigPicture] => 
+    [smallIconAccentColor] => 
+    [launchUrl] => 
+    [sound] => 
+    [ledColor] => 00FF00FF
+    [lockScreenVisibility] => 1
+    [groupKey] => SrCidadao
+    [groupMessage] => $[notif_count] alertas
+    [fromProjectNumber] => 884092009918
+    [rawPayLoad] => {"google.sent_time":1493826845110,"custom":"{\"a\":{\"oidLembrete\":\"2\",\"state\":{\"go\":\"app.lembrete\",\"params\":{\"oidLembrete\":\"2\"}},\"oidTipoMensagem\":\"4\"},\"i\":\"61683003-9445-4c7f-9341-c4738509eb09\"}","grp":"SrCidadao","from":"884092009918","ledc":"00FF00FF","alert":"Reforma do Ensino Médio: Como votou seu político?","licon":"icon","sicon":"ic_stat_sr_cidadao","title":"Educação","grp_msg":"$[notif_count] alertas","google.message_id":"0:1493826845124718%24b8f38bf9fd7ecd","notificationId":1562045850}
+)
